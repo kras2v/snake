@@ -1,0 +1,14 @@
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\bin\Debug\net8.0\SnakeApplication.exe
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\bin\Debug\net8.0\SnakeApplication.deps.json
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\bin\Debug\net8.0\SnakeApplication.runtimeconfig.json
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\bin\Debug\net8.0\SnakeApplication.dll
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\bin\Debug\net8.0\SnakeApplication.pdb
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\SnakeApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\SnakeApplication.AssemblyInfoInputs.cache
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\SnakeApplication.AssemblyInfo.cs
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\SnakeApplication.csproj.CoreCompileInputs.cache
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\SnakeApplication.dll
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\refint\SnakeApplication.dll
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\SnakeApplication.pdb
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\SnakeApplication.genruntimeconfig.cache
+D:\code\c#\course\CourseProjects\SnakeApplication\SnakeApplication\obj\Debug\net8.0\ref\SnakeApplication.dll
